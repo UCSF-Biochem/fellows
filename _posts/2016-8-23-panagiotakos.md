@@ -1,0 +1,8 @@
+---
+layout: post
+title: Georgia Panagiotakos, Ph.D.
+description:
+image: img/Panagiotakos.jpg
+---
+
+ Georgia has been a graduate student working with Ricardo Dolmetsch and Theo Palmer at the Stanford University School of Medicine and will be joining UCSF late in 2014. She is primarily interested in how immature, undifferentiated neural stem cells integrate a variety of intrinsic and extrinsic signals to generate the diverse array of cell types in the developing brain. Georgia first became passionate about neural development during her time working with Viviane Tabar and Lorenz Studer at Memorial Sloan Kettering Cancer Center, where she focused on the transplantation of pluripotent stem cells that had been directed to differentiate into specific neural cell types. This work shed light on the integration of stem cell-derived neural cells into the brain, in the context of developing strategies to replace cells lost during disease. For her graduate work at Stanford, Georgia continued to explore mechanisms by which neural stem cells decide to become a specific type of neuron, by investigating the role of a calcium channel implicated in neuropsychiatric disease on the differentiation of mouse and human neurons. To do this, she employed a number of different techniques, including in utero electroporation, genetic tools, single cell multiplex qPCR, ratiometric calcium imaging, and human induced pluripotent stem cell culture. As a UCSF Sandler Fellow, Georgia will integrate these complementary approaches to examine the function of early electrical activity and ion channel diversity in sculpting the development and evolution of the brain, with an eye towards understanding how these mechanisms go awry in neurodevelopmental disorders.
